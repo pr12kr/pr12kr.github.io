@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
----
+--- 
 
 # Focus on writing good documentation
 {: .fs-9 }
@@ -37,10 +37,10 @@ remote_theme: pmarsceill/just-the-docs
 $ gem install just-the-docs
 ```
 ```yaml
-# .. or add it to your your Jekyll site¡¯s Gemfile
+# .. or add it to your your Jekyll siteÂ¡Â¯s Gemfile
 gem "just-the-docs"
 ```
-2. Add Just the Docs to your Jekyll site¡¯s `_config.yml`
+2. Add Just the Docs to your Jekyll siteÂ¡Â¯s `_config.yml`
 ```yaml
 theme: "just-the-docs"
 ```
