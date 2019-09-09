@@ -9,18 +9,16 @@ nav_order: 2
 ## PR-001: Generative Adversarial Nets
 
 - [Paper](https://arxiv.org/abs/1406.2661), [Video](https://youtu.be/L3hz57whyNw)
-- Ian J. Goodfellow et al., NIPS 2014
-- Keywords: Generative Models, GANs {: .text-red-000}
-- Presentor: Jaejun Yoo {: .text-yellow-100}
+- _Ian J. Goodfellow et al., NIPS 2014_
+- Keywords: Generative Models, GANs
+- **Presentor: Jaejun Yoo**
 
 ## PR-002: Deformable Convolutional Networks
 
 - [Paper](https://arxiv.org/abs/1703.06211), [Video](https://youtu.be/RRwaz0fBQ0Y)
 - Jifeng Dai et al., CVPR 2017
 - Keywords: CNNs, Object Detection, Segmentation
-{: .text-red-000}
 - Presentor: Terry TaeWoong Um
-{: .text-yellow-100}
 
 ## PR-003: Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation
 
