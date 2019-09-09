@@ -178,5 +178,98 @@ nav_order: 2
 
 - [Paper](http://openaccess.thecvf.com/content_cvpr_2016/html/Hoffman_Learning_With_Side_CVPR_2016_paper.html), [Video](https://youtu.be/KdRo7ATNs9g)
 - Judy Hoffman et al., CVPR 2016
-- Keywords:
+- Keywords: Multimodal, Object Detection
 - Presentor: Terry TaeWoong Um
+
+## PR-026: Notes for CVPR 2017
+
+- [Paper1](https://arxiv.org/abs/1702.08690), [Paper2](https://arxiv.org/abs/1612.04844), [Paper3](http://openaccess.thecvf.com/content_cvpr_2017/html/Yu_On_Compressing_Deep_CVPR_2017_paper.html), [Video](https://youtu.be/ZdPBkPGfRSk)
+- Borrowing Treasures from the Wealthy: Deep Transfer Learning through Selective Joint Fine-tuning by Weifeng Ge and Yizhou Yu
+- The More You Know: Using Knowledge Graphs for Image Classification by Kenneth Marino et al.
+- On Compressing Deep Models by Low Rank and Sparse Decomposition by Xiyu Yu at al.
+- Keywords: Transfer Learning, Knowledge Transfer, Graph Neural Networks, Image Classification, Network Compression
+- Presentor: Taegyun Jeon
+
+## PR-027: GloVe: Global Vectors for Word Representation
+
+- [Paper](https://www.aclweb.org/anthology/D14-1162), [Video](https://youtu.be/uZ2GtEe-50E)
+- Jeffrey Pennington et al., EMLNP 2014
+- Keywords: NLP, Word Representation
+- Presentor: Keunbong Kwak
+
+## PR-028: Densely Connected Convolutional Networks
+
+- [Paper](https://arxiv.org/abs/1608.06993), [Video](https://youtu.be/fe2Vn0mwALI)
+- Gao Huang et al., CVPR 2017
+- Keywords: CNNs, Image Classification
+- Presentor: Sunghun Kim
+
+## PR-029: Apprenticeship Learning via Inverse Reinforcement Learning
+
+- [Paper](https://arxiv.org/abs/1608.06993), [Video](https://youtu.be/AXi4s3aFN6M)
+- Pieter Abbeel and Andrew Y. Ng, ICML 2004
+- Keywords: Reinforcement Learning
+- Presentor: Kiho Suh
+
+## PR-030: Photo-Realistic Single Image Super Resolution Using a Generative Adversarial Networks
+
+- [Paper](https://dl.acm.org/citation.cfm?id=1015430), [Video](https://youtu.be/nGPMKnoJTcI)
+- Christian Ledig et al., CVPR 2017
+- Keywords: GANs, Image Super-Resolution
+- Presentor: Seungil Kim
+
+## PR-031: Learning to Learn by Gradient Descent by Gradient Descent
+
+- [Paper](https://arxiv.org/abs/1606.04474), [Video](https://youtu.be/p55H46RiZ6k)
+- Marcin Andrychowicz et al., NIPS 2016
+- Keywords: AutoML, Optimization
+- Presentor: Junbum Cha
+
+## PR-032: Deep Visual-Semantic Alignments for Generating Image Descriptions
+
+- [Paper](https://arxiv.org/abs/1412.2306), [Video](https://youtu.be/Q-Cm7nw85iE)
+- Andrej Karpathy and Li Fei Fei, CVPR 2015
+- Keywords: Image Captioning, NLP
+- Presentor: Jiyang Kang
+
+## PR-033: PVANet: Lightweight Deep Neural Networks for Real-time Object Detection
+
+- [Paper](https://arxiv.org/abs/1611.08588), [Video](https://youtu.be/TYDGTnxUGHQ)
+- Sanghoon Hong et al., NIPS 2016 Workshop
+- Keywords: Object Detection, Network Compression
+- Presentor: Jinwon Lee
+
+## PR-034: Inception and Xception
+
+- [Paper1](https://arxiv.org/abs/1409.4842), [Paper2](https://arxiv.org/abs/1512.00567), [Paper3](https://arxiv.org/abs/1602.07261), [Paper4](https://arxiv.org/abs/1610.02357), [Video](https://youtu.be/V0dLhyg5_Dw)
+- Going Deeper with Convolutions by Christian Szegedy at al. CVPR 2015
+- Rethinking the Inception Architecture for Computer Vision by Christian Szegedy at al. CVPR 2016
+- Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning by Christian Szegedy at al. AAAI 2017
+- Xception: Deep Learning with Depthwise Separable Convolutions by Francois Chollet, CVPR 2017
+- Keywords: CNNs, Image Classification
+- Presentor: Jaejun Yoo
+
+## PR-035: Understanding Black-box Predictions via Influence Functions
+
+- [Paper](https://arxiv.org/abs/1703.04730), [Video](https://youtu.be/xlmlY8WHjkU)
+- Pang Wei Koh and Percy Liang, ICML 2017
+- Keywords: Explainable ML
+- Presentor: Terry TaeWoong Um
+
+## PR-036: Learning to Remember Rate Events
+## PR-037: Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
+## PR-038: Explaining and Harnessing Adversarial Examples
+## PR-039: Dropout as a Bayesian Approximation
+## PR-040: WaveNet: A Generative Model for Raw Audio
+
+## PR-041: Show and Tell: A Neural Image Caption Generator
+## PR-042: Adam: A Method for Stochastic Optimization
+## PR-043: Hypernetworks
+## PR-044: MobileNet
+## PR-045: DeepLab: Semantic Image Segmentation
+
+## PR-046: Deep Knowledge Tracing
+## PR-047: Learning Deep Features for Discriminative Localization
+## PR-048: Towards Principled Methods for Training Generative Adversarial Networks
+## PR-049: Attention is All You Need
+## PR-050: Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting
